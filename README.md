@@ -2,7 +2,11 @@
 <h3 align="center">AI/ML Enthusiast | DSA Practitioner | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Enthusiast;DSA+Practitioner;Open+Source+Contributor&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehapriy958&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -27,22 +31,29 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehapriy958&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehapriy958&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapriy958&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehapriy958&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=snehapriy958&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
