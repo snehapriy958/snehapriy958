@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sneha 👋
 
-<!--
-**snehapriy958/snehapriy958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- AI/ML Enthusiast
+- DSA Practitioner
+- Open Source Learner
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python
+- SQL
+- Machine Learning (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Data Structures & Algorithms
+- Open Source Contributions
+
+## 🔗 Connect with Me
+- LinkedIn: www.linkedin.com/in/sneha-kumari-0aba8028b
