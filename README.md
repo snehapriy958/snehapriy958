@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Enthusiast | DSA Practitioner | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Enthusiast;DSA+Practitioner;Open+Source+Contributor&center=true&width=500&height=45">
+  🚀 Building AI/ML Projects | 💡 Solving DSA Daily | 🌍 Open Source Contributor
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 - 🎓 Student at Dr. Ambedkar Institute of Technology  
-- 💻 Passionate about AI/ML, DSA, and scalable systems  
-- 🌱 Currently learning **Data Structures & Open Source**  
-- ⚡ Goal: Become a top-tier software engineer  
+- 💻 Interested in AI/ML, DSA, and scalable systems  
+- 🌱 Currently learning Data Structures & Open Source  
+- ⚡ Goal: Become a strong software engineer  
 
 ---
 
@@ -37,37 +37,9 @@
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapriy958&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehapriy958&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snehapriy958&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-## 🧠 Current Focus
-- 📌 Solving DSA problems daily  
-- 📌 Contributing to Open Source  
-- 📌 Building AI/ML projects  
-
----
-
 ## 🌐 Connect with Me
 <p>
-  <a href="www.linkedin.com/in/sneha-kumari-0aba8028b" target="_blank">
+  <a href="https://www.linkedin.com/in/sneha-kumari-0aba8028b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/snehapriy958" target="_blank">
