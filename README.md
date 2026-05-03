@@ -20,7 +20,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -37,10 +37,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehapriy958&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🌐 Connect with Me
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/sneha-kumari-0aba8028b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
