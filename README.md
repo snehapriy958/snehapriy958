@@ -37,7 +37,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehapriy958&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me
