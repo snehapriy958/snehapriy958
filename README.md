@@ -30,9 +30,10 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehapriy958&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapriy958&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snehapriy958&show_icons=true&theme=radical&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapriy958&layout=compact&theme=radical&cache_seconds=1800" height="170"/>
 </p>
 
 ---
