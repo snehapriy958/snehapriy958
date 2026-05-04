@@ -23,10 +23,6 @@ AI/ML Enthusiast | DSA Practitioner | Open Source Contributor
 ## Work
 - DSA Practice Repository (structured problem solving)  
 - Open Source Contributions (PRs in active repositories)  
----
-
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=snehapriy958&show_icons=true)
 
 ---
 
