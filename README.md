@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Enthusiast | DSA Practitioner | Open Source Contributor</h3>
 
 <p align="center">
-  🚀 Building AI/ML Projects | 💡 Solving DSA Daily | 🌍 Open Source Contributor
+  🚀 Building AI/ML Projects | 💡 Solving DSA Daily | 🌍 Contributing to Open Source
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 - 🎓 Student at Dr. Ambedkar Institute of Technology  
-- 💻 Interested in AI/ML, DSA, and scalable systems  
-- 🌱 Currently learning Data Structures & Open Source  
-- ⚡ Goal: Become a strong software engineer  
+- 💻 Focused on **AI/ML, DSA, and system-level problem solving**  
+- 📈 Actively solving problems & contributing to open source  
+- ⚡ Goal: Crack top product-based companies (30–50 LPA range)
 
 ---
 
@@ -30,10 +30,24 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehapriy958&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehapriy958&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapriy958&layout=compact&theme=radical" height="170"/>
 </p>
+
+---
+
+## 🔥 Activity Highlights
+- 📌 Maintaining a structured **DSA practice repository**
+- 📌 Contributing to **open-source projects (PRs submitted & reviewed)**
+- 📌 Building **AI/ML projects with real-world applications**
+
+---
+
+## 📂 Featured Projects
+- 🥔 Potato Leaf Disease Prediction  
+- 📈 KrishiMind Price Prediction (7/14/21/28 days)  
+- 🤖 Multi-Domain Support Triage System  
 
 ---
 
